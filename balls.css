@@ -1,0 +1,11 @@
+body {
+    margin: 0%;
+    overflow: hidden;
+    background: black;
+    cursor: none;
+}
+.text {
+    position: absolute;
+    color: white;
+    font-size: 24px;
+}
